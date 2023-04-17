@@ -6,7 +6,7 @@ This is a simple movie recommendation system that takes a movie name as input an
 
 ## Data
 
-The movie recommendation system uses a dataset of over 5,000 movies obtained from the MovieLens dataset. The dataset contains information on the title, genres, and plot summaries of the movies. The system preprocesses the plot summaries using natural language processing techniques, such as tokenization and stemming, to extract meaningful features from the text.
+The movie recommendation system uses a dataset of over 5,000 movies obtained from the TMDB dataset. The dataset contains information on the title, genres, and plot summaries of the movies. The system preprocesses the plot summaries using natural language processing techniques, such as tokenization and stemming, to extract meaningful features from the text.
 
 ## Algorithm
 
