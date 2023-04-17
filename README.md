@@ -1,4 +1,5 @@
 #Movie Recommendation System
+
 This is a simple movie recommendation system that takes a movie name as input and recommends 5 similar movies based on the plot summaries of movies. The system uses natural language processing techniques to analyze the plot summaries of movies and find movies with similar plot summaries.
 
 ![image](https://user-images.githubusercontent.com/105923165/232393722-10836c27-4eed-45ee-b8f5-27bc0fe593c0.png)
